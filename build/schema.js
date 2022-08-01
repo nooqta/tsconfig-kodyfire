@@ -17,10 +17,6 @@ exports.tsconfig = {
     type: 'object',
     properties: {
         name: { enum: (0, tsconfig_templates_1.getTsConfigNames)() },
-        // template: {
-        //   type: 'string',
-        //   enum: ['tsconfig.json.template'],
-        // },
         outputDir: { type: 'string' },
     },
 };
