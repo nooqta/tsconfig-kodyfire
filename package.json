@@ -1,6 +1,6 @@
 {
   "name": "tsconfig-kodyfire",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "description": "Generate x with tsconfig kodyfire",
   "main": "build/index.js",
   "scripts": {
